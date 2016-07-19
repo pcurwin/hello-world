@@ -1,2 +1,3 @@
 # hello-world
-Literally just figuring this out
+Literally just figuring this out.
+Hoping to make something of this.
